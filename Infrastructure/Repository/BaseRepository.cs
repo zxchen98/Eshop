@@ -11,8 +11,8 @@ namespace Infrastructure.Repository
 {
     internal class BaseRepository<T>:IBaseRepository<T> where T:class
     {
-        protected readonly ProductDBContext _context;
-        public BaseRepository(ProductDBContext tb) { 
+        protected readonly TrainingDbContext _context;
+        public BaseRepository(TrainingDbContext tb) { 
             _context = tb;
         }
 

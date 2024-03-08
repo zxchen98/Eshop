@@ -10,3 +10,9 @@ C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Muggl\Desktop\Eshop\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Muggl\Desktop\Eshop\Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\Muggl\Desktop\Eshop\Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Muggl\Desktop\Eshop\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
