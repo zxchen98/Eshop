@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Contracts.Repository
 {
-    internal interface IProductCategoryRepository
+    public interface IProductCategoryRepository
     {
     }
 }

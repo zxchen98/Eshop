@@ -9,7 +9,7 @@ using Infrastructure.Data;
 
 namespace Infrastructure.Repository
 {
-    internal class BaseRepository<T>:IBaseRepository<T> where T:class
+    public class BaseRepository<T>:IBaseRepository<T> where T:class
     {
         protected readonly TrainingDbContext _context;
         public BaseRepository(TrainingDbContext tb) { 
@@ -18,27 +18,31 @@ namespace Infrastructure.Repository
 
         public int Delete(int id)
         {
-            throw new NotImplementedException();
+            var entity = GetById(id);
+            _context.Set<T>().Remove(entity);
+            return _context.SaveChanges();
         }
 
         public IEnumerable<T> GetAll()
         {
-            throw new NotImplementedException();
+            return _context.Set<T>().ToList();
         }
 
         public T GetById(int id)
         {
-            throw new NotImplementedException();
+            return _context.Set<T>().Find(id);
         }
 
         public int Insert(T entity)
         {
-            throw new NotImplementedException();
+            _context.Set<T>().Add(entity);
+            return _context.SaveChanges();
         }
 
         public int Update(T entity)
         {
-            throw new NotImplementedException();
+            _context.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            return _context.SaveChanges();
         }
     }
 }

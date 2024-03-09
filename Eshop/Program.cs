@@ -1,5 +1,6 @@
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using ApplicationCore.Contracts.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,9 @@ builder.Services.AddDbContext<TrainingDbContext>(option => {
 
     option.UseSqlServer(builder.Configuration.GetConnectionString("TrainingDB"));
 });
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
 
 var app = builder.Build();
 

@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Product
+    public class Shipper
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public decimal Price { get; set; }
-        public string Description { get; set; }
-
-
+        public string City { get; set; }
+        public int Size  { get; set; }
     }
 }

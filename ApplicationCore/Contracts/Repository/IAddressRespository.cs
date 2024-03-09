@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Contracts.Repository
 {
-    public interface IProductRepository:IBaseRepository<Product>
+    public interface IAddressRespository : IBaseRepository<Shipper>
     {
     }
 }
