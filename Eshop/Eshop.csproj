@@ -19,4 +19,18 @@
     <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\CategoryVariation\" />
+    <Folder Include="Views\Customer\" />
+    <Folder Include="Views\ShoppingCartItem\" />
+    <Folder Include="Views\ShoppingCart\" />
+    <Folder Include="Views\Shipper\" />
+    <Folder Include="Views\Promotion\" />
+    <Folder Include="Views\ProductVariation\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="Views\Payment\" />
+    <Folder Include="Views\Order\" />
+  </ItemGroup>
+
 </Project>

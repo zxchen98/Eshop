@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Muggl\\Desktop\\Eshop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\iproductvariationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\iproductvariationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\iaddressrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\iaddressrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|c:\\users\\muggl\\desktop\\eshop\\infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|c:\\users\\muggl\\desktop\\eshop\\eshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|solutionrelative:eshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|c:\\users\\muggl\\desktop\\eshop\\infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +51,12 @@
       "RelativeMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|solutionrelative:eshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|c:\\users\\muggl\\desktop\\eshop\\infrastructure\\services\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +71,12 @@
       "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|c:\\users\\muggl\\desktop\\eshop\\eshop\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|solutionrelative:eshop\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|c:\\users\\muggl\\desktop\\eshop\\eshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|solutionrelative:eshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|c:\\users\\muggl\\desktop\\eshop\\eshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|solutionrelative:eshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F60E468E-3C3B-42B1-A966-03E186D943E1}|Eshop\\Eshop.csproj|c:\\users\\muggl\\desktop\\eshop\\eshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -147,14 +183,6 @@
       "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\iproductvariationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\iproductvariationvaluerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ishoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ishoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -169,14 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\icategoryvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\icategoryvariationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\iaddressrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repository\\iaddressrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -227,16 +247,8 @@
       "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|c:\\users\\muggl\\desktop\\eshop\\infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|c:\\users\\muggl\\desktop\\eshop\\infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514B6DC0-A9EF-4244-ABF0-D90D369411C2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FA234D2-0F31-4EA1-B3C4-1C58CBBD25C0}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\muggl\\desktop\\eshop\\applicationcore\\contracts\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -270,544 +282,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PromotionService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PromotionService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\PromotionService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PromotionService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\PromotionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:20:30.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPromotionService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:20:16.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shipper.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Shipper.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Shipper.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Shipper.cs",
-              "RelativeToolTip": "ApplicationCore\\Entities\\Shipper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:15:48.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Program.cs",
-              "RelativeDocumentMoniker": "Eshop\\Program.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Program.cs",
-              "RelativeToolTip": "Eshop\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:30:13.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Data\\ProductDBContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductDBContext.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Data\\ProductDBContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\ProductDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:20:41.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PromotionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PromotionRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PromotionRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PromotionRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\PromotionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:20:02.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPromotionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:19:47.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PromotionController.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\PromotionController.cs",
-              "RelativeDocumentMoniker": "Eshop\\Controllers\\PromotionController.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\PromotionController.cs",
-              "RelativeToolTip": "Eshop\\Controllers\\PromotionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:18:47.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Eshop\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Eshop\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T20:17:46.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Eshop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Eshop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T20:17:25.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Eshop\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Eshop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T20:17:08.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShoppingCartService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ShoppingCartService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ShoppingCartService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:16:25.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ShoppingCartItemService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartItemService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ShoppingCartItemService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartItemService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ShoppingCartItemService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:16:05.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RabitMQService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\RabitMQService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\RabitMQService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\RabitMQService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\RabitMQService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:15:55.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PaymentService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PaymentService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\PaymentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:15:46.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:15:36.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderDetailService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderDetailService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderDetailService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\OrderDetailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:15:28.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DocumentService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\DocumentService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\DocumentService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\DocumentService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\DocumentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:15:17.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\CustomerService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\CustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:15:08.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AddressService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\AddressService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\AddressService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\AddressService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\AddressService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:14:54.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IShoppingCartService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:14:09.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IShoppingCartItemService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:13:57.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IRabitMQService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:13:47.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:13:35.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:13:26.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IOrderDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:13:17.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IDocumentService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:13:05.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:12:52.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IAddressService.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IAddressService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IAddressService.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IAddressService.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IAddressService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:12:40.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:12:18.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ShoppingCartItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:12:06.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PaymentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PaymentRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PaymentRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PaymentRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\PaymentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:11:53.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AddressRespository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\AddressRespository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AddressRespository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\AddressRespository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\AddressRespository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:11:43.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderDetailRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\OrderDetailRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:11:33.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\OrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:11:24.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\CustomerRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:11:06.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IProductVariationValueRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:10:39.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IVariationValueRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:10:34.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IShoppingCartItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:09:26.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IShipperRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:02:28.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ICategoryVariationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:01:38.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IBaseRepository.cs",
@@ -820,7 +299,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 2,
+              "Title": "IProductVariationValueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IProductVariationValueRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:10:39.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPromotionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IPromotionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:19:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IShipperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:02:28.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IAddressRespository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IAddressRespository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IAddressRespository.cs",
@@ -833,7 +351,532 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:22:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eshop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T20:17:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Order.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:40:44.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Product.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:22:12.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Shipper.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Shipper.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Shipper.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Shipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:15:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Data\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductDBContext.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Data\\ProductDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ProductDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:20:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Program.cs",
+              "RelativeDocumentMoniker": "Eshop\\Program.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Program.cs",
+              "RelativeToolTip": "Eshop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:30:13.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Category.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:39:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Customer.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:36:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPromotionService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IPromotionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:20:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PromotionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PromotionService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PromotionService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PromotionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:20:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PromotionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PromotionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PromotionRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PromotionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\PromotionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:20:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "Eshop\\Controllers\\PromotionController.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "Eshop\\Controllers\\PromotionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:18:47.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Eshop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Eshop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T20:17:46.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T20:17:25.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:16:25.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShoppingCartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ShoppingCartItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:16:05.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RabitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\RabitMQService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\RabitMQService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\RabitMQService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\RabitMQService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:15:55.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:15:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:15:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderDetailService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:15:28.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\DocumentService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\DocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:15:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:15:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AddressService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Services\\AddressService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AddressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:14:54.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:14:09.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IShoppingCartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IShoppingCartItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:13:57.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRabitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IRabitMQService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:13:47.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:13:35.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:13:26.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IOrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:13:17.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:13:05.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:12:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IAddressService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IAddressService.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Services\\IAddressService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IAddressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:12:40.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:12:18.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShoppingCartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ShoppingCartItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:12:06.585Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 40,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\PaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:11:53.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddressRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\AddressRespository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AddressRespository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\AddressRespository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AddressRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:11:43.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:11:33.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:11:24.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:11:06.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IVariationValueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IVariationValueRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:10:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IShoppingCartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IShoppingCartItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:09:26.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICategoryVariationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
+              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\ICategoryVariationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:01:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "IShoppingCartRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IShoppingCartRepository.cs",
@@ -841,12 +884,11 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IShoppingCartRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:09:42.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:09:42.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "IPaymentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IPaymentRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IPaymentRepository.cs",
@@ -854,12 +896,11 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IPaymentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:09:16.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:09:16.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "IOrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IOrderDetailRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IOrderDetailRepository.cs",
@@ -867,12 +908,11 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IOrderDetailRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:08:55.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:08:55.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 51,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IOrderRepository.cs",
@@ -880,12 +920,11 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:08:42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:08:42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\ICustomerRepository.cs",
@@ -893,12 +932,11 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Repository\\ICustomerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:07:53.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:07:53.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "ShoppingCartItemController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\ShoppingCartItemController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\ShoppingCartItemController.cs",
@@ -906,12 +944,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\ShoppingCartItemController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:07:22.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:07:22.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\ShoppingCartController.cs",
@@ -919,12 +956,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\ShoppingCartController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:07:06.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:07:06.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\PaymentController.cs",
@@ -932,12 +968,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\PaymentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:06:52.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:06:52.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\OrderController.cs",
@@ -945,12 +980,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:06:35.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:06:35.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\CustomerController.cs",
@@ -958,12 +992,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\CustomerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:06:19.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:06:19.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 59,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\HomeController.cs",
@@ -971,12 +1004,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:05:28.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:05:28.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 58,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Eshop\\Controllers\\ProductController.cs",
@@ -984,25 +1016,11 @@
               "RelativeToolTip": "Eshop\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T20:05:23.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T20:05:23.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\BaseRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:22:58.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 60,
               "Title": "ShipperRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ShipperRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShipperRepository.cs",
@@ -1010,12 +1028,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\ShipperRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:10:54.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:10:54.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\ProductRepository.cs",
@@ -1027,19 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Entities\\Product.cs",
-              "RelativeToolTip": "ApplicationCore\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T04:22:12.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IProductRepository.cs",
@@ -1051,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "IProductCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\ApplicationCore\\Contracts\\Repository\\IProductCategoryRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repository\\IProductCategoryRepository.cs",
@@ -1063,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Eshop\\Views\\_ViewImports.cshtml",
@@ -1075,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Eshop\\Properties\\launchSettings.json",
@@ -1087,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Eshop\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Eshop\\appsettings.Development.json",
@@ -1099,7 +1104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "20240308043502_init.cs",
               "DocumentMoniker": "C:\\Users\\Muggl\\Desktop\\Eshop\\Infrastructure\\Migrations\\20240308043502_init.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240308043502_init.cs",
