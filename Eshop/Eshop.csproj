@@ -28,7 +28,6 @@
     <Folder Include="Views\Shipper\" />
     <Folder Include="Views\Promotion\" />
     <Folder Include="Views\ProductVariation\" />
-    <Folder Include="Views\Product\" />
     <Folder Include="Views\Payment\" />
     <Folder Include="Views\Order\" />
   </ItemGroup>

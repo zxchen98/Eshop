@@ -15,6 +15,7 @@ builder.Services.AddDbContext<TrainingDbContext>(option => {
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IShipperRepository, ShipperRepository>();
+builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 
 
 var app = builder.Build();
