@@ -6,14 +6,14 @@ namespace Eshop.Controllers
 {
     public class ShipperController : Controller
     {
-        protected readonly IShipperRepository shipperRepository;
-        public ShipperController(IShipperRepository repo)
+        protected readonly IShipperRepositoryAsync shipperRepository;
+        public ShipperController(IShipperRepositoryAsync repo)
         {
             shipperRepository = repo;
         }
         public IActionResult Index()
         {
-            var content = shipperRepository.GetAll();
+            var content = shipperRepository.GetAllAsync();
             return View(content);
 
         }
@@ -29,7 +29,7 @@ namespace Eshop.Controllers
             {
                 try
                 {
-                    shipperRepository.Insert(obj);
+                    shipperRepository.InsertAsync(obj);
                     return RedirectToAction("Index");
                 }
                 catch (Exception ex)
@@ -42,21 +42,21 @@ namespace Eshop.Controllers
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            var department = shipperRepository.GetById(id);
+            var department = shipperRepository.GetByIdAsync(id);
             return View(department);
         }
 
         [HttpPost]
         public IActionResult Delete(Shipper obj)
         {
-            shipperRepository.Delete(obj.Id);
+            shipperRepository.DeleteAsync(obj.Id);
             return RedirectToAction("Index");
 
         }
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            var department = shipperRepository.GetById(id);
+            var department = shipperRepository.GetByIdAsync(id);
             return View(department);
         }
 
@@ -66,7 +66,7 @@ namespace Eshop.Controllers
             try
             {
 
-                shipperRepository.Update(shipper);
+                shipperRepository.UpdateAsync(shipper);
                 return RedirectToAction("Index");
             }
             catch (Exception ex)

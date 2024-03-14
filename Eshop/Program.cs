@@ -13,9 +13,11 @@ builder.Services.AddDbContext<TrainingDbContext>(option => {
     option.UseSqlServer(builder.Configuration.GetConnectionString("TrainingDB"));
 });
 
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
-builder.Services.AddScoped<IShipperRepository, ShipperRepository>();
-builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+builder.Services.AddScoped<IProductRepositoryAsync, ProductRepositoryAsync>();
+builder.Services.AddScoped<IShipperRepositoryAsync, ShipperRepositoryAsync>();
+builder.Services.AddScoped<ICustomerRepository, CustomerRepositoryAsync>();
+builder.Services.AddScoped<IReviewRepositoryAsync, ReviewRepositoryAsync>();
+
 
 
 var app = builder.Build();

@@ -6,14 +6,14 @@ namespace Eshop.Controllers
 {
     public class ProductController : Controller
     {
-        protected readonly IProductRepository productRepository;
-        public ProductController(IProductRepository repo)
+        protected readonly IProductRepositoryAsync productRepository;
+        public ProductController(IProductRepositoryAsync repo)
         {
             productRepository = repo;
         }
         public IActionResult Index()
         {
-            var content = productRepository.GetAll();
+            var content = productRepository.GetAllAsync();
             return View(content);
 
         }
@@ -29,7 +29,7 @@ namespace Eshop.Controllers
             {
                 try
                 {
-                    productRepository.Insert(obj);
+                    productRepository.InsertAsync(obj);
                     return RedirectToAction("Index");
                 }
                 catch (Exception ex)
@@ -42,21 +42,21 @@ namespace Eshop.Controllers
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            var department = productRepository.GetById(id);
+            var department = productRepository.GetByIdAsync(id);
             return View(department);
         }
 
         [HttpPost]
         public IActionResult Delete(Product obj)
         {
-            productRepository.Delete(obj.Id);
+            productRepository.DeleteAsync(obj.Id);
             return RedirectToAction("Index");
 
         }
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            var department = productRepository.GetById(id);
+            var department = productRepository.GetByIdAsync(id);
             return View(department);
         }
 
@@ -66,7 +66,7 @@ namespace Eshop.Controllers
             try
             {
 
-                productRepository.Update(obj);
+                productRepository.UpdateAsync(obj);
                 return RedirectToAction("Index");
             }
             catch (Exception ex)
