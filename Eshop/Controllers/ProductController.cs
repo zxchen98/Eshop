@@ -1,4 +1,5 @@
 ﻿using ApplicationCore.Contracts.Repository;
+using ApplicationCore.Contracts.Services;
 using ApplicationCore.Entities;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,14 +7,14 @@ namespace Eshop.Controllers
 {
     public class ProductController : Controller
     {
-        protected readonly IProductRepositoryAsync productRepository;
-        public ProductController(IProductRepositoryAsync repo)
+        protected readonly IProductServiceAsync _productService;
+        public ProductController(IProductServiceAsync productSeravice)
         {
-            productRepository = repo;
+            _productService = productSeravice;
         }
         public IActionResult Index()
         {
-            var content = productRepository.GetAllAsync();
+            var content = _productService.GetAllAsync();
             return View(content);
 
         }
@@ -29,7 +30,7 @@ namespace Eshop.Controllers
             {
                 try
                 {
-                    productRepository.InsertAsync(obj);
+                    _productService.InsertAsync(obj);
                     return RedirectToAction("Index");
                 }
                 catch (Exception ex)
@@ -42,21 +43,21 @@ namespace Eshop.Controllers
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            var department = productRepository.GetByIdAsync(id);
+            var department = _productService.GetByIdAsync(id);
             return View(department);
         }
 
         [HttpPost]
         public IActionResult Delete(Product obj)
         {
-            productRepository.DeleteAsync(obj.Id);
+            _productService.DeleteAsync(obj.Id);
             return RedirectToAction("Index");
 
         }
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            var department = productRepository.GetByIdAsync(id);
+            var department = _productService.GetByIdAsync(id);
             return View(department);
         }
 
@@ -66,7 +67,7 @@ namespace Eshop.Controllers
             try
             {
 
-                productRepository.UpdateAsync(obj);
+                _productService.UpdateAsync(obj);
                 return RedirectToAction("Index");
             }
             catch (Exception ex)
