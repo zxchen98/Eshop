@@ -2,6 +2,8 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using ApplicationCore.Contracts.Repository;
 using Infrastructure.Repository;
+using ApplicationCore.Contracts.Services;
+using Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +19,7 @@ builder.Services.AddScoped<IProductRepositoryAsync, ProductRepositoryAsync>();
 builder.Services.AddScoped<IShipperRepositoryAsync, ShipperRepositoryAsync>();
 builder.Services.AddScoped<ICustomerRepository, CustomerRepositoryAsync>();
 builder.Services.AddScoped<IReviewRepositoryAsync, ReviewRepositoryAsync>();
+builder.Services.AddScoped<IProductServiceAsync, ProductServiceAsync>();
 
 
 

@@ -1,6 +1,7 @@
 ﻿using ApplicationCore.Contracts.Repository;
 using ApplicationCore.Contracts.Services;
 using ApplicationCore.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,8 +21,7 @@ namespace Infrastructure.Services
 
         public Task<int> AddNewProduct(Product p)
         {
-
-            return _productRepositoryAsync.InsertAsync(p);
+            throw new NotImplementedException();
         }
 
         public Task<IEnumerable<Product>> GetAllProducts()
@@ -29,10 +29,14 @@ namespace Infrastructure.Services
             throw new NotImplementedException();
         }
 
-        public async Task<IEnumerable<Product>> GetProductByName(string name)
+        public Task<IEnumerable<Product>> GetProductByName(string name)
         {
-            var result = await _productRepositoryAsync.Filter(x => x.Name == name);
-            return result;
+            throw new NotImplementedException();
+        }
+
+        public async Task<(IEnumerable<Product>, int)> GetProductsByCategoryAsync(string categoryName, int pageSize, int pageNumber)
+        {
+            return await _productRepositoryAsync.GetProductsByCategoryAsync(categoryName, pageSize, pageNumber);
         }
     }
 }

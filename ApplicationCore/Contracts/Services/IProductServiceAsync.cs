@@ -12,5 +12,6 @@ namespace ApplicationCore.Contracts.Services
         Task<IEnumerable<Product>> GetAllProducts();
         Task<int> AddNewProduct(Product p);
         Task<IEnumerable< Product>> GetProductByName(string name);
+        Task<(IEnumerable<Product>, int)> GetProductsByCategoryAsync(string categoryName, int pageSize, int pageNumber);
     }
 }

@@ -9,5 +9,7 @@ namespace ApplicationCore.Contracts.Repository
 {
     public interface IProductRepositoryAsync:IBaseRepositoryAsync<Product>
     {
+        Task<(IEnumerable<Product>, int)> GetProductsByCategoryAsync(string categoryName, int pageSize, int pageNumber);
     }
+}
 }
