@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Contracts.Repository
 {
-    internal interface IPromotionRepositoryAsync
+    public interface IPromotionRepositoryAsync
     {
     }
 }
