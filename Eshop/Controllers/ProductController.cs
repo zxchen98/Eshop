@@ -14,7 +14,7 @@ namespace Eshop.Controllers
         }
         public IActionResult Index()
         {
-            var content = _productService.GetAllAsync();
+            var content = _productService.GetAllProducts();
             return View(content);
 
         }
@@ -30,7 +30,7 @@ namespace Eshop.Controllers
             {
                 try
                 {
-                    _productService.InsertAsync(obj);
+                    _productService.AddNewProduct(obj);
                     return RedirectToAction("Index");
                 }
                 catch (Exception ex)
@@ -40,24 +40,18 @@ namespace Eshop.Controllers
             }
             return View(obj);
         }
-        [HttpGet]
-        public IActionResult Delete(int id)
-        {
-            var department = _productService.GetByIdAsync(id);
-            return View(department);
-        }
 
         [HttpPost]
         public IActionResult Delete(Product obj)
         {
-            _productService.DeleteAsync(obj.Id);
-            return RedirectToAction("Index");
+            var res = _productService.DeleteProduct(obj.Id);
+            return View(res);
 
         }
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            var department = _productService.GetByIdAsync(id);
+            var department = _productService.GetProductByIdAsync(id);
             return View(department);
         }
 
@@ -67,7 +61,7 @@ namespace Eshop.Controllers
             try
             {
 
-                _productService.UpdateAsync(obj);
+                _productService.UpdateProductAsync(obj);
                 return RedirectToAction("Index");
             }
             catch (Exception ex)

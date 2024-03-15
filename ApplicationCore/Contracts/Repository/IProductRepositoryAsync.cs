@@ -12,4 +12,3 @@ namespace ApplicationCore.Contracts.Repository
         Task<(IEnumerable<Product>, int)> GetProductsByCategoryAsync(string categoryName, int pageSize, int pageNumber);
     }
 }
-}

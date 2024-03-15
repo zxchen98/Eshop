@@ -19,24 +19,43 @@ namespace Infrastructure.Services
             this._productRepositoryAsync = productRepositoryAsync;
         }
 
-        public Task<int> AddNewProduct(Product p)
+        public async Task<int> AddNewProduct(Product p)
         {
-            throw new NotImplementedException();
+            return await _productRepositoryAsync.InsertAsync(p);
         }
 
-        public Task<IEnumerable<Product>> GetAllProducts()
+        public async Task<IEnumerable<Product>> GetAllProducts()
         {
-            throw new NotImplementedException();
+            return await _productRepositoryAsync.GetAllAsync();
         }
 
-        public Task<IEnumerable<Product>> GetProductByName(string name)
+        public async Task<IEnumerable<Product>> GetProductByName(string name)
         {
-            throw new NotImplementedException();
+            return await _productRepositoryAsync.Filter(product => product.Name.Equals(name));
         }
 
         public async Task<(IEnumerable<Product>, int)> GetProductsByCategoryAsync(string categoryName, int pageSize, int pageNumber)
         {
             return await _productRepositoryAsync.GetProductsByCategoryAsync(categoryName, pageSize, pageNumber);
+        }
+
+        public async Task<int> DeleteProduct(int id)
+        {
+            int result = await _productRepositoryAsync.DeleteAsync(id);
+            return result;
+        }
+
+        public async Task<Product> GetProductByIdAsync(int id)
+        {
+
+            var product = await _productRepositoryAsync.GetByIdAsync(id);
+
+            return product;
+        }
+
+        public async Task<int> UpdateProductAsync(Product p)
+        {
+            return await _productRepositoryAsync.UpdateAsync(p);
         }
     }
 }

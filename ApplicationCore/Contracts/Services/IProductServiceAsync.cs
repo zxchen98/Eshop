@@ -13,5 +13,8 @@ namespace ApplicationCore.Contracts.Services
         Task<int> AddNewProduct(Product p);
         Task<IEnumerable< Product>> GetProductByName(string name);
         Task<(IEnumerable<Product>, int)> GetProductsByCategoryAsync(string categoryName, int pageSize, int pageNumber);
+        Task<int> DeleteProduct(int id);
+        Task<Product> GetProductByIdAsync(int id);
+        Task<int> UpdateProductAsync(Product p);
     }
 }
