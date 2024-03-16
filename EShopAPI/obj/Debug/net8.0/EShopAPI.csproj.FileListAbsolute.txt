@@ -1,0 +1,8 @@
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.csproj.AssemblyReference.cache
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.AssemblyInfoInputs.cache
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.AssemblyInfo.cs
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.csproj.CoreCompileInputs.cache
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muggl\Desktop\Eshop\EShopAPI\obj\Debug\net8.0\EShopAPI.sourcelink.json
