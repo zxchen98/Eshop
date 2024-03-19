@@ -13,7 +13,7 @@ namespace Infrastructure.Data
 {
     public class Mapping : Profile
     {
-        public MappingProfile()
+        public Mapping()
         {
 
             CreateMap<Product, ProductResponse>();
