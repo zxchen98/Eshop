@@ -15,7 +15,6 @@ namespace ApplicationCore.Entities
         public int CustomerId { get; set; }
         public Customer Customer { get; set; }
         public string ReviewContent { get; set; }
-        public int OrderId { get; set; }
-        public Order Order { get; set; }
+        public DateTime CreatedAt { get; set; }
     }
 }

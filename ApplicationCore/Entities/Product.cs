@@ -16,6 +16,9 @@ namespace ApplicationCore.Entities
         public int CategoryId { get; set; }
         public Category Category { get; set; }
 
+        public ICollection<ProductOrder> ProductOrders { get; set; }
+        public ICollection<Review> Reviews { get; set; }
+
 
 
     }
